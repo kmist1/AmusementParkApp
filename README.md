@@ -13,11 +13,16 @@ chat with other online users using the chat box.
 
 ## Technologies
 Project is created with:
-* Node version: ^12.12.34
+* Node version:  ^12.16.2
 * React version: ^16.13.1
+* express version:  ^4.17.1
+* MondoDB version:  ^3.5.5
+* mongoose version:  ^5.9.1
 * Redux version: ^4.0.5
 * TypeScipt version: ^3.7.5
 * WebSocket version: ^7.2.3
+* Chai version:  ^4.2.0
+* Mocha version:  ^7.1.1
 
 ## Setup
 To run this project, install it locally using npm:

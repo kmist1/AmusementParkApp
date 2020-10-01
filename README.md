@@ -34,7 +34,8 @@ $ cd ../client
 $ npm install
 $ npm start
 ```
-[see video](https://asciinema.org/a/PqIr3c58MHbXpGvGQiNudj2cl)
+see video [here.](https://asciinema.org/a/PqIr3c58MHbXpGvGQiNudj2cl)
+
 You would have to run client and server individually. So, same steps for the server as listed above for client.
 
 

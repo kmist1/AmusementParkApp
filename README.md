@@ -27,7 +27,7 @@ Project is created with:
 * Mocha version:  ^7.1.1
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project, Download or clone this repository locally and open the project using Visual Studio Code or WebStorm. First you need to install the node (https://nodejs.org/en/download/) then write following commands:
 
 ```
 $ cd ../client

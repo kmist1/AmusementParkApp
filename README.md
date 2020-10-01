@@ -7,7 +7,7 @@ Amusement Park Web Application using MERN Stack
 * [Setup](#setup)
 
 ## Genral info
-This project is fully functional web application using MERN Stack developed as Final Project in my Advance Web Application course. In this app user can create their account and login. Once user will be logged in his session will be created and stored. user can buy the tickets and they can also chat with other online users using the chat box.
+This project is fully functional web application using MERN Stack developed as Final Project in Advance Web Application course. In this app user can create their account and login. Once user will be logged in his session will be created and stored. user can buy the tickets and they can also chat with other online users using the chat box.
 
 In Python course I am going to change Backend of this project from Node.js to Python, Exciting!!. The key objective to switch to python is Learning to built micoservies / Restful_APIs for backend, creating better vesion of chat box for the app. 
 
